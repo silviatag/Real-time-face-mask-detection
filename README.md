@@ -1,4 +1,4 @@
-# Real-time-face-mask-detection
+# Face-mask-detection
 This is a real-time face mask detection program that uses Python and the Kaggle Face Mask Dataset to detect whether a person is wearing a mask or not. The program uses computer vision techniques with the help of OpenCV and Keras libraries to detect the presence or absence of a mask in real-time.
 
 # Dataset:
